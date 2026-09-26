@@ -1,0 +1,9 @@
+# robots.txt for DES Global, LLC
+# https://www.desglobal.com
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.desglobal.com/sitemap.xml
+
+# For AI agents, also see: https://www.desglobal.com/llms.txt
